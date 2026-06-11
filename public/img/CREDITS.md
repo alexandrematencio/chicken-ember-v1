@@ -1,0 +1,16 @@
+# Photo credits — Pexels License (free commercial use, no attribution required; credited as good practice)
+Placeholder stock photography until the professional shoot (see WEBSITE-BUILD-ASSESSMENT.md §2).
+
+- hero-embers: Pexels #13037135 (smoking charcoal)
+- glow-forge: Pexels #220993 (burning charcoal, dark)
+- embers-red: Pexels #29584556 (glowing embers)
+- charcoal: Pexels #18128285 (charcoal close-up)
+- poulet-entier: Pexels #13458086 (rotisserie chickens on dark grill)
+- poulet-roti: Pexels #5847876 (roasted whole chicken)
+- pilons-ailes: Pexels #106343 (grilled chicken platter, Omar Mahmood)
+- brochettes: Pexels #2233730 (chicken skewers on smoky grill, samer daboul)
+- sandwich: Pexels #1600732 (chicken baguette sandwich, Rajesh TP)
+- blanc-poulet: Pexels #1247677 (grilled chicken breast plate)
+- frites: Pexels #4109234 (french fries close-up)
+- frites-mains: Pexels #8879364 (hands sharing fries, dark)
+- tiramisu: Pexels #4861852 (tiramisu, dark, Taqnia Creative Studio)

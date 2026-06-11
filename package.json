@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.23",
+    "nuxt": "^4.4.8",
+    "vue": "^3.5.35",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@fontsource/anton": "^5.2.7",
+    "@fontsource/archivo": "^5.2.8",
+    "puppeteer-core": "^25.1.0",
+    "sharp": "^0.35.0"
+  }
+}

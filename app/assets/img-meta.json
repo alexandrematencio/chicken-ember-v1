@@ -1,0 +1,67 @@
+{
+ "blanc-poulet": {
+  "width": 1400,
+  "height": 933,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoUAA0APxFysFAsJqSisAgBgCIJZgCw7BMuQX3jUjtyAAD3HuXJlyXRXTFFe+9fgTD5xEH2m3Z3wqgTiMfuAkWbj1K6kjsAAAA="
+ },
+ "brochettes": {
+  "width": 1600,
+  "height": 1067,
+  "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABQAwCdASoUAA0APxFysVAsJqSisAgBgCIJZQDE2CGua8AqgAD+4w/n4s5RZqSG2833Z0wl8MzY8FbF6npP5Yc6nv5IAA=="
+ },
+ "charcoal": {
+  "width": 1600,
+  "height": 1067,
+  "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAwCdASoUAA0APxF4slEsJ6SisAgBgCIJZwAAWsfHKkmtomRkSAD+6NSLy6MSD69AjC/Df3BvnMIknYwTsNXYAAA="
+ },
+ "embers-red": {
+  "width": 1600,
+  "height": 2133,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoUABsAPxFwr1CsJiQisBgMAYAiCWIAzNA8/S5Nj8XTWipZfAAA/vGri4CUo219u+SRB6IqSe606k5DTrMmFyQFdLp/asLRAAA="
+ },
+ "frites-mains": {
+  "width": 1600,
+  "height": 2400,
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQBACdASoUAB4APxFytFCsJqUiqA1RgCIJYwDA3EXfv9jaki+Ax0HKebyzIm/KgAD+9BjUIIQ8yippH1QPfnb6H48XojipMqBGQdG+4dHNe0U2nSVHMEOMVxa21sb9EGN2gQHeQGcZBDVpEcmAAA=="
+ },
+ "frites": {
+  "width": 1400,
+  "height": 2100,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBQCdASoUAB4APxF8sVSsJ6QjKAqpgCIJYmJJTLaGAQDYPUjk4SGMO9pxln3XLqAbngAA/uk/KAPdC0CpW/H3Q6y9ZS94EhCl8ntfk8DWtkryQmGRgfKEEs7P0DobY5uPWbOLYhmaSi0NZUh/hd7KDiAhcaYFoBZGB7gyqoeXiud0AAA="
+ },
+ "glow-forge": {
+  "width": 1600,
+  "height": 1071,
+  "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAwCdASoUAA0APxFysFAsJqSisAgBgCIJYwDImCHgUPCeW1hETAAA/vDJF02HL4IalQ9yfO7ucJ9AAAA="
+ },
+ "hero-embers": {
+  "width": 2400,
+  "height": 1600,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoUAA0APxF0sVAsJySisAgBgCIJQBdgA0DpJW76V6scAP66eobKBo+bJL8j53pvVvtD3RtErEzr9Yl2T3DuYJahodStjtp6oAA="
+ },
+ "pilons-ailes": {
+  "width": 1400,
+  "height": 787,
+  "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoUAAsAPxF0sVCsJqSisAgBgCIJYgCdABd1Cr5NE38FjQwA/oPXQIgVpeDngLFt4QXhrolV6/8DaGoJ4+z2vy9cBjBKyyNAj2AAAA=="
+ },
+ "poulet-entier": {
+  "width": 2000,
+  "height": 1330,
+  "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASoUAA0APxFysFAsJqSisAgBgCIJaACdMoADTH5/VBBmDVagAP7pThUzYoafJf7tQqJLVNbC46k6uBCxyqJJRK3hwH1NuF1IfeeQF6C2tTUmT8L1oDZkK8ugAAA="
+ },
+ "poulet-roti": {
+  "width": 1600,
+  "height": 1067,
+  "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoUAA0APxFwsFAsJiSisAgBgCIJZgC7ABee1EGB9fUIAAD+HkzXjUJgde5qk/TeRG63GmtGeyNBDeKsi4Mp/snVB0kptjSkmy77kYTSSgAAAA=="
+ },
+ "sandwich": {
+  "width": 1400,
+  "height": 933,
+  "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoUAA0APxFysFAsJqSisAgBgCIJYgCdMoADQwxAHA6NfOkeAAD+0M05kHRxuWlkycNbfIA6BxZvJCj+FPMIQAfpem5edqCKwXDnwAAA"
+ },
+ "tiramisu": {
+  "width": 1400,
+  "height": 2100,
+  "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASoUAB4APvVoqlAqpiQit+gBUB6JQBibBkoDe4QBZRu9Pkrmvbj1AAD+8MSaXBREtL03OeGcftNimJfZKtTbvnAcxlp5Aezh293KMDyYA28qlXrYAAAAAA=="
+ }
+}
