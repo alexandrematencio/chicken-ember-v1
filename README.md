@@ -9,6 +9,7 @@ Voir `creative-brief.md` (direction créative) et `../WEBSITE-BUILD-ASSESSMENT.m
 npm run dev        # dev server
 npm run generate   # build statique → .output/public
 npx serve .output/public   # préview du build
+npm run deploy    # déploie sur GitHub Pages (gh-pages branch, méthode SALUTE)
 ```
 
 ## Architecture
