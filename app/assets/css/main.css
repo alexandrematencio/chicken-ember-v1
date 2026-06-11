@@ -1,25 +1,4 @@
-/* ————— Fonts (self-hosted, subset latin) ————— */
-@font-face {
-  font-family: 'Anton';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/fonts/anton-latin-400-normal.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Archivo';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/fonts/archivo-latin-400-normal.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Archivo';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url('/fonts/archivo-latin-600-normal.woff2') format('woff2');
-}
+/* ————— Fonts: @font-face injectées via nuxt.config (base-path aware) ————— */
 
 /* ————— Tokens ————— */
 :root {

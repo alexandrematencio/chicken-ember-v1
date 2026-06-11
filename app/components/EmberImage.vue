@@ -12,14 +12,19 @@ const props = withDefaults(
   { eager: false, sizes: '100vw' },
 )
 
+const base = useRuntimeConfig().app.baseURL
 const m = computed(() => (meta as Record<string, { width: number; height: number; lqip: string }>)[props.name])
 const hasMobile = computed(() => m.value && m.value.width > 1500)
 
 const avifSrcset = computed(() =>
-  hasMobile.value ? `/img/${props.name}-900.avif 900w, /img/${props.name}.avif ${m.value.width}w` : `/img/${props.name}.avif`,
+  hasMobile.value
+    ? `${base}img/${props.name}-900.avif 900w, ${base}img/${props.name}.avif ${m.value.width}w`
+    : `${base}img/${props.name}.avif`,
 )
 const webpSrcset = computed(() =>
-  hasMobile.value ? `/img/${props.name}-900.webp 900w, /img/${props.name}.webp ${m.value.width}w` : `/img/${props.name}.webp`,
+  hasMobile.value
+    ? `${base}img/${props.name}-900.webp 900w, ${base}img/${props.name}.webp ${m.value.width}w`
+    : `${base}img/${props.name}.webp`,
 )
 </script>
 
@@ -28,7 +33,7 @@ const webpSrcset = computed(() =>
     <source type="image/avif" :srcset="avifSrcset" :sizes="sizes" />
     <source type="image/webp" :srcset="webpSrcset" :sizes="sizes" />
     <img
-      :src="`/img/${name}.webp`"
+      :src="`${base}img/${name}.webp`"
       :alt="alt"
       :width="m.width"
       :height="m.height"
